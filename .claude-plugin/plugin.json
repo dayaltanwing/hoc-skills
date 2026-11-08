@@ -1,0 +1,14 @@
+{
+  "name": "hoc",
+  "displayName": "Học: dạy theo phương pháp LearnHarness",
+  "version": "1.0.0",
+  "description": "Bộ skill học bất cứ thứ gì, bằng tiếng Việt, theo phương pháp LearnHarness: đo trình độ, lập bản đồ phụ thuộc, dạy từng bước đoán → dạy → kiểm tra, luyện tập xen kẽ; kèm skill học viết theo The Sense of Style của Steven Pinker. Bắt đầu bằng /hoc:hoc.",
+  "author": {
+    "name": "dayaltanwing",
+    "url": "https://github.com/dayaltanwing"
+  },
+  "homepage": "https://github.com/dayaltanwing/hoc-skills",
+  "repository": "https://github.com/dayaltanwing/hoc-skills",
+  "license": "AGPL-3.0-only",
+  "keywords": ["learning", "tutor", "vietnamese", "learnharness", "practice", "writing", "pinker"]
+}

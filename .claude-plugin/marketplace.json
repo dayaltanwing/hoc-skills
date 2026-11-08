@@ -1,0 +1,17 @@
+{
+  "name": "hoc-skills",
+  "description": "Bộ skill học tập cho Claude Code theo phương pháp LearnHarness, bằng tiếng Việt.",
+  "owner": {
+    "name": "dayaltanwing",
+    "url": "https://github.com/dayaltanwing"
+  },
+  "plugins": [
+    {
+      "name": "hoc",
+      "source": "./",
+      "description": "6 skill: cửa trước /hoc, đo trình độ, lập kế hoạch, dạy từng bước, luyện tập, học viết theo Pinker.",
+      "category": "education",
+      "homepage": "https://github.com/dayaltanwing/hoc-skills"
+    }
+  ]
+}
