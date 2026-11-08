@@ -32,7 +32,7 @@ Theo `hoc-day`, nhưng bước kiểm tra là **viết lại**:
 2. **Dạy**: giải quyết lời đoán. Rồi dạy kỹ thuật theo nguyên lý 2: *vì sao người đọc vấp ở đó* (cơ chế ở phía người đọc: trí nhớ ngắn hạn, phải đoán chủ ngữ, không thấy hình ảnh…), để quy tắc hiện ra như hệ quả, không phải luật áp đặt. Đưa **một** ví dụ trước–sau do bạn tự đặt, không dùng câu của họ.
 3. **Kiểm tra = họ tự viết lại câu của chính họ.** Ngăn bằng dòng `**Kiểm tra:**`. Yêu cầu kèm một câu giải thích họ đã đổi gì và vì sao.
 4. **Chấm bản viết lại**: lỗi đã hết chưa? Có sinh lỗi mới không (ví dụ: bỏ danh từ hóa nhưng câu thành dài lê thê)? Ý có bị đổi không? Sai thì chỉ chỗ, không viết hộ. Tối đa gợi ý một cụm từ mở đầu.
-5. Đạt: ghi mệnh đề vào `menh-de.md` (ví dụ: "Thông tin cũ đặt đầu câu, thông tin mới đặt cuối câu, vì người đọc cần một điểm neo trước khi nhận điều mới"), rồi sang kỹ thuật tiếp theo.
+5. Đạt: ghi mệnh đề vào `menh-de.md` (ví dụ: "Thông tin cũ đặt đầu câu, thông tin mới đặt cuối câu, vì người đọc cần một điểm neo trước khi nhận điều mới"). Nếu Obsidian đã bật, ghi kỹ thuật đó thành ghi chú theo `../hoc/references/obsidian.md`. Mục "Ví dụ" là câu gốc của người học và bản họ viết lại, đặt cạnh nhau. Rồi sang kỹ thuật tiếp theo.
 
 ## Các đoạn văn sau: luyện
 

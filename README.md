@@ -4,7 +4,7 @@
 
 Bộ skill cho Claude Code, trao đổi bằng tiếng Việt. Nó đưa phương pháp dạy của [LearnHarness](https://github.com/amosblomqvist/learnharness) vào một phiên chat bình thường, không cần cài app. Kèm theo một skill học viết dựa trên *The Sense of Style* của Steven Pinker.
 
-6 skill · 1 thư mục trạng thái `hoc/` · không cần Python, không cần API key
+6 skill · 1 thư mục trạng thái `hoc/` · tự ghi vào Obsidian · không cần Python, không cần API key
 
 Cài vào một thư mục học (không ảnh hưởng dự án khác):
 
@@ -65,6 +65,23 @@ thu-muc-hoc/
 ```
 
 Trạng thái nằm trong file, không nằm trong trí nhớ của phiên chat. Mở phiên mới hôm sau, gõ `/hoc tiep` là học tiếp đúng chỗ.
+
+## Tự ghi vào Obsidian
+
+Khi bạn đã **thật sự rõ** một khái niệm, tức là đã trả lời đúng câu kiểm tra chứ không chỉ đã nghe giảng, skill tự tạo một ghi chú trong vault Obsidian của bạn:
+
+```
+<vault>/Học/
+├── Viết theo Pinker.md            ghi chú tổng: mục tiêu, bản đồ, danh sách khái niệm
+└── Viết theo Pinker/
+    ├── Phong cách cổ điển.md
+    └── Danh từ hóa.md             phát biểu một câu · vì sao · ví dụ · theo lời bạn · dựa trên [[…]] · dẫn đến [[…]]
+```
+
+- Các link "Dựa trên" và "Dẫn đến" lấy từ bản đồ phụ thuộc, nên đồ thị (Graph view) của Obsidian phản ánh đúng cấu trúc kiến thức.
+- Skill chỉ sửa phần nằm giữa `%% hoc:start %%` và `%% hoc:end %%`. Chữ bạn tự viết thêm vào ghi chú không bao giờ bị ghi đè.
+- Bật hoặc đổi vault: `/hoc obsidian`. Skill đọc danh sách vault từ cấu hình của Obsidian và hỏi bạn chọn vault nào.
+- Vault nằm ngoài thư mục học, nên Claude Code sẽ hỏi quyền ghi. Muốn khỏi bị hỏi, mở phiên bằng `claude --add-dir "<đường dẫn vault>"`.
 
 ## Cài vào một thư mục
 

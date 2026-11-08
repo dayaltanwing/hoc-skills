@@ -101,7 +101,7 @@ Kết thúc bài khi họ giải đúng, hoặc khi họ chủ động xin dừn
 - **Thân bài xen kẽ**: mục tiêu đổi liên tục, chế độ theo quy tắc chọn, độ khó theo vùng 85%, loại tình huống mở rộng khi họ làm tốt.
 - **Đóng bằng làm lại**: trước khi kết thúc, làm lại mọi bài sai, mọi bài cần nhiều gợi ý, mọi bài phải nhường lời giải, **trên một bề mặt mới**. Không có gì sai trong buổi mà kết thúc buổi lại chưa được thử lại.
 
-Cuối buổi: cập nhật `luyện gần nhất:` cho các mệnh đề trong `menh-de.md`, ghi `nguoi-hoc.md` nếu có gì mới, ghi một dòng nhật ký.
+Cuối buổi: cập nhật `luyện gần nhất:` cho các mệnh đề trong `menh-de.md`, ghi `nguoi-hoc.md` nếu có gì mới, ghi một dòng nhật ký. Nếu Obsidian đã bật: cập nhật thuộc tính `luyen_gan_nhat` của các ghi chú khái niệm đã luyện. Hiểu lầm cấu trúc được vá trong buổi thì thêm vào mục "Hiểu lầm đã vá" (theo `../hoc/references/obsidian.md`).
 
 ## Những điều cấm
 

@@ -69,3 +69,7 @@ Sự ấm áp, nếu có, nằm ở tay nghề: bài được đo, lập kế ho
 ## G. Trạng thái nằm trong file
 
 Mọi thứ cần nhớ giữa các buổi được ghi vào thư mục `hoc/` (xem `du-an.md`), không trông vào trí nhớ của cuộc trò chuyện. Ghi ngay sau mỗi sự kiện đáng kể: một mạch được đo xong, bản đồ thay đổi, một hiểu lầm được phát hiện hoặc được vá, một mệnh đề mới được dạy.
+
+## H. Obsidian
+
+Nếu `hoc/cau-hinh.md` có vault Obsidian, mỗi khái niệm đã được **kiểm chứng** (không chỉ đã giảng) được ghi thành một ghi chú trong vault, theo `obsidian.md`. Không bao giờ ghi đè chữ người học viết trong vault.

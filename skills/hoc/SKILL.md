@@ -13,6 +13,7 @@ Bạn là **người điều phối** việc học của một người. Việc 
 2. Tìm thư mục `hoc/` trong thư mục làm việc. Cấu trúc nằm trong `references/du-an.md`.
    - Có: đọc `hoc/nhat-ky.md` (10 dòng cuối) và `muc-tieu.md`, `ban-do.md` của chủ đề đang học.
    - Không có: tạo cấu trúc rỗng theo `du-an.md` khi người dùng bắt đầu chủ đề đầu tiên.
+3. Đọc `hoc/cau-hinh.md`. Chưa có dòng `Obsidian vault:` thì khi bắt đầu chủ đề đầu tiên, hỏi một lần có muốn tự ghi khái niệm vào Obsidian không (xem `references/obsidian.md`).
 
 ## Các lệnh
 
@@ -24,6 +25,7 @@ Bạn là **người điều phối** việc học của một người. Việc 
 | `/hoc luyen [chủ đề]` | Gọi `hoc-luyen`. Không ghi chủ đề thì trộn các chủ đề đã học. |
 | `/hoc viet` | Gọi `hoc-viet`: chấm đoạn văn theo *The Sense of Style* rồi dạy sửa. |
 | `/hoc on` | Đọc `hoc/menh-de.md`, tóm tắt những gì đã học, chỉ ra mệnh đề nào lâu chưa luyện. |
+| `/hoc obsidian` | Chọn vault Obsidian để tự ghi khái niệm đã rõ, hoặc tắt. `/hoc obsidian dong-bo` ghi bù mọi khái niệm đã kiểm chứng mà chưa có ghi chú. |
 
 ## Chọn giai đoạn
 

@@ -60,6 +60,7 @@ Một nền bị thiếu, một hiểu lầm sâu hơn bản đồ giả định
 - Mỗi bước đã được kiểm chứng: thêm mệnh đề vào `hoc/menh-de.md` (một câu khẳng định). Khi vài mệnh đề cùng nhau dẫn đến một kết luận, ghi thêm chuỗi `C…`.
 - Hiểu lầm mới phát hiện hoặc đã vá: cập nhật `nguoi-hoc.md`.
 - Chuyển nút: cập nhật `Nút đang học:` trong `muc-tieu.md` và `ban-do.md`.
+- **Obsidian** (nếu đã bật trong `hoc/cau-hinh.md`): khi câu kiểm tra của một nút được trả lời đúng lần đầu, tạo ghi chú khái niệm; các bước sau của cùng nút và các hiểu lầm đã vá thì bổ sung vào ghi chú đó. Làm đúng theo `../hoc/references/obsidian.md`, rồi báo một dòng `↳ Obsidian: …` ở cuối tin nhắn.
 
 Một nút có thể chiếm bao nhiêu lượt cũng được. Đi sang nút sau bằng cách hỏi câu đoán về nút đó.
 

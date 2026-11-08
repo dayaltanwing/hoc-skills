@@ -4,6 +4,7 @@ Skill `hoc` tạo cấu trúc này trong thư mục làm việc khi người dù
 
 ```
 hoc/
+├── cau-hinh.md                # cấu hình: vault Obsidian (xem obsidian.md)
 ├── nhat-ky.md                 # mỗi buổi một dòng: ngày, chủ đề, giai đoạn, đã làm gì, việc tiếp theo
 ├── menh-de.md                 # "đồ thị kiến thức": mệnh đề và chuỗi suy luận đã dạy, mọi chủ đề
 └── chu-de/<slug>/             # slug: chữ thường không dấu, nối bằng gạch ngang (vd: thong-ke-hoi-quy)
@@ -11,6 +12,15 @@ hoc/
     ├── nguoi-hoc.md           # kết quả đo: từng mạch, sàn, trần, hiểu lầm; cập nhật suốt quá trình
     ├── ban-do.md              # bản đồ phụ thuộc (mermaid) + nút đang học
     └── buoi/<yyyy-mm-dd>.md   # biên bản buổi: câu hỏi, câu trả lời, độ tự tin, suy nghĩ, kết luận
+```
+
+## Mẫu `cau-hinh.md`
+
+```markdown
+# Cấu hình
+
+- Obsidian vault: </đường/dẫn/vault> | tắt
+- Thư mục trong vault: Học
 ```
 
 ## Mẫu `muc-tieu.md`
@@ -59,6 +69,10 @@ graph TD
 
 - Nút đang học: `buoc-a`
 - Đã đi qua: `nen-1`, `nen-2`
+
+| Nút | Ghi chú Obsidian |
+|---|---|
+| `nen-1` | Sự thật nền 1 |
 
 ## Lịch sử thay đổi
 - <yyyy-mm-dd>: <thay đổi gì, vì sao>
